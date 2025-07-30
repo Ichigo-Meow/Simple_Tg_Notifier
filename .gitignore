@@ -1,0 +1,5 @@
+.env
+.cursor/
+.vscode/
+logs/*
+node_modules/
